@@ -23,4 +23,4 @@ Schema for the database, last updated 06/30/2021.
     }
     ```
 4. Navigate to node_restapi and run "npm run dev"
-5. To test, enter "localhost:3000/api/compounds" in your browser.
+5. To test, enter "localhost:3000/api/compound" in your browser.
