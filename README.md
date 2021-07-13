@@ -9,7 +9,7 @@ Schema for the database, last updated 06/30/2021.
 
 ## Setting up the REST-API
 1. Install node and npm.
-2. In node_restapi/db create a folder 'config' and in it a 'config.json' file.
+2. In node_restapi/server/db create a folder 'config' and in it a 'config.json' file.
 3. The config.json should be formatted as follows:
     ```json
     {
